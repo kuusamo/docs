@@ -17,8 +17,6 @@ You can also use environmental variables in Apache, Heroku, or on the command li
 
     SetEnv DB_NAME "kuusamo_db"
 
-**Step 3**. Use the Kuusamo CLI to copy the latest static assets into your project.
+**Step 3**. Point your web server at the `public` directory.
 
-    vendor/bin/kuusamo assets
-
-**Step 4**. Point your web server at the `public` directory.
+**Step 4**. Open it up in your web browser and go to `/setup` to install your admin user.
