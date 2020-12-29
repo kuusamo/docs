@@ -15,7 +15,6 @@ Create a custom theme:
 
     $theme = new Kuusamo\Vle\Entity\Theme\Theme;
     $theme->setLogo('/logo.png', true);
-    $theme->setFooterText('Copyright My Organisation. All rights reserved.');
     $theme->setColour('primary', '#A71212');
 
     Kuusamo\Vle\Service\Templating\TemplatingFactory::setTheme($theme);

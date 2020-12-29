@@ -10,3 +10,8 @@ If there are `schema` changes in the changelog, you will also need to run the mi
     vendor/bin/doctrine-migrations migrate
 
 You can safely run this command whether there are migrations or not, so if you are not sure what version you are currently running, it may be best to run it every time you upgrade anything beyond a patch.
+
+Upgrading to 1.9
+----------------
+
+Version 1.9 deprecated `footerText` in the `Theme` entity. This is now set in the admin so you should remove this function call if you have set a custom theme.
