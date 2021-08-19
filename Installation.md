@@ -16,7 +16,7 @@ You can also use environmental variables in Apache, Heroku, or on the command li
 
 **Step 3**. Install the database.
 
-    vendor/bin/doctrine orm:schema-tool:install
+    vendor/bin/doctrine orm:schema-tool:create
 
 **Step 4**. Point your web server at the `public` directory.
 
