@@ -1,6 +1,8 @@
 Kuusamo Docs
 ============
 
+Welcome to the Kuusamo VLE documentation.
+
 Installation
 
 * [Installation](Installation.md)
