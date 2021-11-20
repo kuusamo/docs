@@ -1,13 +1,12 @@
-Kuusamo Docs
-============
+# Summary
 
-Installation
+## Setup
 
 * [Installation](Installation.md)
 * [Personalisation](Personalisation.md)
 * [Upgrading](Upgrading.md)
 
-Managing courses
+## Management
 
 * [Courses](Courses.md)
 * [Lessons](Lessons.md)
