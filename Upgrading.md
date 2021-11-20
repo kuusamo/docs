@@ -15,3 +15,8 @@ Upgrading to 1.9
 ----------------
 
 Version 1.9 deprecated `footerText` in the `Theme` entity. This is now set in the admin so you should remove this function call if you have set a custom theme.
+
+Upgrading to 1.14
+-----------------
+
+Version 1.14 contains enhancements to the `.htaccess` file that you may want to copy into youe local project.
