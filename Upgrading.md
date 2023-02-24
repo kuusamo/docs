@@ -11,6 +11,11 @@ If there are `schema` changes in the changelog, you will also need to run the mi
 
 You can safely run this command whether there are migrations or not, so if you are not sure what version you are currently running, it may be best to run it every time you upgrade anything beyond a patch.
 
+Upgrading to 2.0
+----------------
+
+Version 2.0 adds an `exists` method to the `StorageInterface` so if you are using the AWS plugin you will need to upgrade to 2.0 on both.
+
 Upgrading to 1.9
 ----------------
 
