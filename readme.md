@@ -3,13 +3,4 @@ Kuusamo Docs
 
 Welcome to the Kuusamo VLE documentation.
 
-Installation
-
-* [Installation](Installation.md)
-* [Personalisation](Personalisation.md)
-* [Upgrading](Upgrading.md)
-
-Managing courses
-
-* [Courses](Courses.md)
-* [Lessons](Lessons.md)
+If you are new to Kuusamo, you may want to start with the [Installation](Installation.md) guide.
