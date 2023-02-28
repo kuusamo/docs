@@ -15,5 +15,5 @@
 
 ## Technical
 
-* [Custom error handling](Custom error handling.md)
-* [SSO](SSO.md)
+* [Custom error handling](Custom%20error%20handling.md)
+* [Single sign-on (SSO)](SSO.md)

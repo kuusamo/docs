@@ -1,7 +1,7 @@
 SSO
 ===
 
-Kuusamo supports single sign-on, allowing users to authenticate against an external service such as your main website.
+Kuusamo supports single sign-on (SSO), allowing users to authenticate against an external service such as your main website.
 
 To enable SSO, use the following config variables:
 
